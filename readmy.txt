@@ -1,0 +1,24 @@
+.net core client library for server-sent events.
+https://github.com/3ventic/EvtSource.git
+
+новый проект юнити
+2D core
+project name "Fishing"
+В фотошопе создать файл 2000*2000 с сеткой 10*10 field.png
+Hierarchy - create empty - назвать board
+Выделить его - create empty child - назвать desk1
+Add component - srpite renderer
+Project Assets - create folder - назвать Img
+Import new asset - field.png
+desk1 - sprite - поставить field.png
+
+File - build settings - webGl - switch platform
+player settings - player - publiching settings - compression format - установить Gzip
+При компиляции указывать папку не корень проекта с названием build
+
+Hierarchy - UI - legacy - button - назвать MainButton
+Hierarchy - UI - legacy - input field - назвать MainIf
+Отдалить доску и выровнять MainButton и MainText по рамкам canvas
+Assets - create folder - назвать Scripts
+Scripts - create C# script - назвать Main
+desk1 - Add component - scripts - Main
