@@ -1,5 +1,8 @@
 .net core client library for server-sent events.
 https://github.com/3ventic/EvtSource.git
+https://ya.ru/video/preview/13946987870666476894
+
+
 
 новый проект юнити
 2D core
@@ -22,3 +25,5 @@ Hierarchy - UI - legacy - input field - назвать MainIf
 Assets - create folder - назвать Scripts
 Scripts - create C# script - назвать Main
 desk1 - Add component - scripts - Main
+после добавления элементов они могут загораживать друг друга. Чтобы этого избнжать, нужно использовать "Additional settings" - "order in layer"
+фигурам, чтобы они находились, нужно создать "box collaider 2D"
